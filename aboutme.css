@@ -1,0 +1,31 @@
+body{
+	background-color:#00FFFF;
+}
+h1{
+	border:solid;
+	background-color:#F7E7CE;
+	text-align:center;
+	font-size:larger;
+}
+h2{
+	border:solid;
+	background-color:#FF7F50;
+	text-align:center; 
+	font-size:large;
+}
+.text{
+	border:solid;
+	border-color:red;
+	background-color:#00FF3F;
+	font-size:27px;
+}
+.main{
+	border:dashed;
+	border-color:blue;
+	background-color:#9966CC;
+	font-size:30px;
+}
+img{
+	border:solid;
+	background-color:#E0B0FF;
+}

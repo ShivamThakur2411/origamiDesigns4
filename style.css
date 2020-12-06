@@ -1,0 +1,151 @@
+.animals1{
+	background-color:pink; 
+	display:flex;	
+	justify-content:space-between;
+	border-radius: 20px;
+	padding:30px;
+	margin:25px;
+	font-family:fantasy;
+}
+.animals2{
+	background-color:violet;
+	display:flex;	
+	justify-content:space-between;
+	border-radius: 20px;
+	padding:30px;
+	margin:25px;
+	font-family:fantasy;
+}
+.animals3{
+	background-color:purple;
+	display:flex;	
+	justify-content:space-between;
+	border-radius: 20px;
+	padding:30px;
+	margin:25px;
+	font-family:fantasy;
+}
+h1{
+	text-align:center;
+	background-color:blue;
+	color:yellow;
+	padding:15px;
+	margin:20px;
+}
+h2{
+	text-align:center;
+	background-color:yellow;
+	color:blue;
+	padding:15px;
+	margin:10px;
+}
+.menu *{
+	border:solid;
+	margin:20px;
+	padding:5px;
+}
+body{
+	margin:0px;
+	background-color:#00A86B;
+}
+.chameleon{
+	border:solid;
+	background-color:#f7f2f2;
+}
+.Pigeon{
+	border:solid;
+	background-color:#f7f2f2;
+}
+.Camel{
+	border:solid;
+	background-color:#f7f2f2;
+}
+.Panda{
+	border:solid;
+	background-color:#f7f2f2;
+}
+.Cicada{
+	border:solid;
+	background-color:#f7f2f2;
+}
+.Teddy{
+	border:solid;
+	background-color:#f7f2f2;
+}
+.elephant{
+	border:solid;
+	background-color:#f7f2f2;
+}
+.Frog{
+	border:solid;
+	background-color:#f7f2f2;
+}
+.Puppy{
+	border:solid;
+	background-color:#f7f2f2;
+}
+img{
+	border:2px solid #000000;
+	border-radius:25px;
+	background-color:#7FFFD4;
+}
+a:link{
+	color:white;
+}
+a:visited{
+	color:white;
+}
+.an1{
+	display:flex;
+}
+.an2{
+	display:flex;
+}
+.an3{
+	display:flex;
+}
+.an4{
+	display:flex;
+}
+.an5{
+	display:flex;
+}
+.an6{
+	display:flex;
+}
+.an7{
+	display:flex;
+}
+.an8{
+	display:flex;
+}
+.an9{
+	display:flex;
+}
+.an1:hover{
+	transform: scale(1.25,1.25);
+}
+.an2:hover{
+	transform: scale(1.25,1.25);
+}
+.an3:hover{
+	transform: scale(1.25,1.25);
+}
+.an4:hover{
+	transform: scale(1.25,1.25);
+}
+.an5:hover{
+	transform: scale(1.25,1.25);
+}
+.an6:hover{
+	transform: scale(1.25,1.25);
+}
+.an7:hover{
+	transform: scale(1.25,1.25);
+}
+.an8:hover{
+	transform: scale(1.25,1.25);
+}
+.an9:hover{
+	transform: scale(1.25,1.25);
+}
